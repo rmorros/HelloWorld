@@ -1,0 +1,3 @@
+[submodule "external/usb_capture"]
+	path = external/usb_capture
+	url = https://github.com/rmorros/usb_capture.git
